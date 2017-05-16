@@ -18,3 +18,13 @@ General Project Notes
   - State: used for a components internal record keeping. Only used with class-based components.
 
 - Not uncommon to have stand-alone components whose sole purpose is to add reusable styling.
+
+
+Styling
+------------
+
+
+
+ToDos
+-----------
+- Research destructuring objects  
